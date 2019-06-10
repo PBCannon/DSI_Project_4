@@ -1,5 +1,8 @@
-## Strategy
---------------
+# DATA JOB SALARY PREDICTION MODEL
+# HOW MUCH ARE YOUR SKILLS WORTH ????
+
+## Project Strategy
+
 **Objective : Build a model using mycareersfuture information that predicts job salary**
 
 ### Method: 
